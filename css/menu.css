@@ -1,0 +1,85 @@
+.menu {
+    display: block;
+    background-color: gray;
+    border-radius: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wait {
+    display: block;
+    border-radius: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu:hover {
+    cursor: pointer;
+}
+
+.text {
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: center;
+}
+
+input:hover {
+    cursor: pointer;
+}
+
+.big-text {
+    font-family: Verdana;
+    font-size: 80px;
+    text-align: center;
+}
+
+.white_button {
+    width: 40%;
+    background-color: white;
+}
+
+.rating {
+    font-weight: bold;
+    font-family: "Bookman Old Style";
+    font-size: 120px;
+}
+
+input {
+    font-size: 40px;
+    line-height: 70px;
+}
+
+a {
+    font-size: 30px;
+}
+
+.battle_text {
+    float: left;
+    margin-left: 15px;
+}
+
+.hit {
+    margin: 40px auto 0;
+    display: block;
+    background-color: gray;
+}
+
+#hp {
+    width: 95%;
+    background-color: lightgreen;
+    margin-top: 80px;
+}
+
+.disable-select {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}
